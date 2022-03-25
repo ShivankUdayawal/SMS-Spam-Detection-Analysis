@@ -25,3 +25,5 @@ This corpus has been collected from free or free for research sources at the Int
 #### Dataset Source :
 
 * https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+* https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
