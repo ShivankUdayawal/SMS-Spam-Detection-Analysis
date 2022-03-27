@@ -1,5 +1,8 @@
 # SMS-Spam-Detection-Analysis
 
+![](https://github.com/ShivankUdayawal/SMS-Spam-Detection-Analysis/blob/main/Data%20Visualization/01.jpg)
+
+
 ### Build a prediction model that will accurately classify which texts are spam?
 
 #### Introduction :
