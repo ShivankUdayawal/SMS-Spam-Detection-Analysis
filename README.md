@@ -11,6 +11,8 @@ The growth of mobile phone users has lead to a dramatic increasing of SMS spam m
 
 We all know that the internet and social media have become the quickest and most straightforward ways to get information. As a result, messages have become a significant source of information. In this era, Short message service or SMS is one of the most potent means of communication. As the dependence on mobile devices has drastically increased over the period, it has led to increased muggings via SMS. We can now extract meaningful information from such data using various artificial intelligence techniques thanks to technological advancements.
 
+![](https://github.com/ShivankUdayawal/SMS-Spam-Detection-Analysis/blob/main/Data%20Visualization/02.jpg)
+
 #### Content :
 
 The files contain one message per line. Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text.
